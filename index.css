@@ -1,0 +1,160 @@
+.opi{
+display: flex;
+justify-content: space-around;
+align-items: center;
+width: 600px;
+font-family: monospace;
+color: #fff;
+
+}
+.jec{
+margin-left: 80%;
+margin-top: -55px;
+font-family: monospace;
+color: #fff;
+}
+.bloc{
+display: flex;
+justify-content: space-around;
+align-items: center;
+width: 700px;
+margin-left:400px;
+
+}
+.bloc a{
+color: #fff;;
+text-decoration: none;
+}
+.op{
+margin-top: 10px;
+margin-left: 60px;
+
+}
+nav{
+display: flex;
+
+}
+body{
+background-color: rgb(23, 8, 74);
+}
+
+h1{
+color: #fff;
+
+}
+.berd{
+color: #fff;
+font-size: 40px;
+margin-left: 100px;
+margin-top: 100px;
+}
+.oi{
+width:150px;
+height: 40px;
+margin-left: 100px;
+border-radius: 30px;
+}
+.iy{
+    width: 150px;
+    height: 40px;
+    margin-left: 100px;
+    border-radius: 30px;
+}
+.red img{
+width: 400px;
+height: 400px;
+margin-left: 800px;
+margin-top: -300px;
+}
+.owr h1{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.lol input{
+width: 40%;
+height: 50px;
+border-radius: 10px;
+margin-left: 450px;
+}
+.opm{
+display: flex;
+justify-content: space-around;
+align-items: center;
+width: 700px;
+margin-left: 390px;
+margin-top: 40px;
+}
+.opm a{
+text-decoration: none;
+color: #fff;
+font-family: monospace;
+font-size: 20px;
+}
+.loi{
+color: #fff;
+font-size: 30px;
+margin-left: 500px;
+margin-top: 30px;
+}
+.loki h1{
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 40px;
+}
+.po{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.po .oo{
+color:#fff;
+height: 300px;
+width: 300px;
+border: 1px solid #fff;
+text-align: center;
+}
+.oo{
+padding-top: 100px;
+}
+.ppo h2{
+color:slategrey;
+
+}
+/* .ppo h1{
+font-size:40px;
+
+} */
+
+.lo {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding-top: 40px;
+}
+
+   .gt button{
+width: 120px;
+height: 50px;
+border-radius: 300px;
+margin-left: 50px;
+background-color:slategray ;
+   }
+   footer h1{
+font-size: 40px;
+
+   }
+.foot {
+   display: flex;
+   justify-content: space-around;
+   font-size: 20px;
+   color: #fff ;
+   padding-top: 100px;
+}
+
+   
+
+
+
+
